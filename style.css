@@ -1,0 +1,78 @@
+body{
+    font-family: Rubik;
+}
+
+h2, p{
+    margin: 30px;
+}
+.main-page-heading{
+    font-weight: 700;
+    font-size: 28px;
+    font-family: Rubik, monospace;
+}
+
+.subheading{
+    font-weight: 400;
+    font-size: 22px;
+    font-family: Barlow, monospace;
+}
+
+.paragraph-text{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: Barlow, monospace;
+}
+
+.container {
+    border: 2px solid lightslategray;
+    margin-bottom: 5px;
+}
+
+.color-panel{
+    text-align: center;
+    margin: 30px;
+    width: 28%;
+    display: inline-block;
+}
+
+.color-panel.beige {
+    background-color: #F5F5DC;
+}
+
+.color-panel.blue{
+    background-color: #0000FF;
+    color: white;
+}
+.color-panel.aliceblue{
+    background-color: aliceblue;
+}
+
+.font-panel{
+    display: inline-block;
+    margin: 30px;
+}
+
+.font-label{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.rubik{
+    font-family: Rubik;
+}
+
+.raleway{
+    font-family: Raleway;
+}
+
+.barlow{
+    font-family: Barlow;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
